@@ -1,8 +1,8 @@
-<h1 align="center">Hi 👋, I'm Abishek</h1>
-<h3 align="center">I'm a Master's student pursuing Computer Science Specializing in ML 🧑‍💻.</h3>
-<h3 align="center">I do web application development 🧩 & have a passion for delving into the exciting world of fintech 💸.</h3>
-<h3 align="center">I explore investments, financial instruments, and markets in my free time 📈.</h3>
-<h3 align="center">I don't limit myself to a specific stack 👽.</h3>
+<h1 align="left">Hi 👋, I'm Abishek</h1>
+<h3 align="left">I'm a Master's student pursuing Computer Science Specializing in ML 🧑‍💻.</h3>
+<h3 align="left">I do web application development 🧩 & have a passion for delving into the exciting world of fintech 💸.</h3>
+<h3 align="left">I explore investments, financial instruments, and markets in my free time 📈.</h3>
+<h3 align="left">I don't limit myself to a specific stack 👽.</h3>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=0x12md10&label=Profile%20views&color=0e75b6&style=flat" alt="0x12md10" /> </p>
