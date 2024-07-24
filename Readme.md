@@ -13,6 +13,10 @@
 
 <p align="left"> <a href="https://twitter.com/0x12md10" target="blank"><img src="https://img.shields.io/twitter/follow/0x12md10?logo=twitter&style=for-the-badge" alt="0x12md10" /></a> </p>
 
+###
+
+<h3 align="left">What's happening in my void ?</h3>
+
 - 🔭 I’m currently working on my [Personal Blog](https://github.com/0x12md10/personal-blog)
 
 
@@ -20,6 +24,8 @@
 
 
 - 📫 How to reach me **abish18.dev@gmail.com**
+
+- ###
 
 <h6 align="left">Connect with me:</h6>
 <p align="left" style="display:flex; gap:20px;">
@@ -71,7 +77,7 @@
 
 ###
 
-<h3 align="left">What's happening in my void ?</h3>
+
 
 ###
 
