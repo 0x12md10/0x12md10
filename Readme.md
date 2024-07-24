@@ -4,7 +4,7 @@
 
 <br clear="both">
 
-<p align="left">I'm a Master's student pursuing Computer Science Specializing in ML 🧑‍💻.<br>I do web application development 🧩 & have a passion for delving into the exciting world of fintech 💸.<br>I explore investments, financial instruments, and markets in my free time 📈.<br>I don't limit myself to a specific stack 👽.</p>
+<p align="left">I'm a Master's student pursuing Computer Science Specializing in ML 🧑‍💻.<br><br>I do web application development 🧩 & have a passion for delving into the exciting world of fintech 💸.<br><br>I explore investments, financial instruments, and markets in my free time 📈.<br><br>I don't limit myself to a specific stack 👽.</p>
 
 ###
 
