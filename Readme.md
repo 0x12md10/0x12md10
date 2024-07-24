@@ -8,6 +8,25 @@
 
 ###
 
+<p align="left" style="margin-top:30px;"> <img src="https://komarev.com/ghpvc/?username=0x12md10&label=Profile%20views&color=0e75b6&style=flat" alt="0x12md10" /> </p>
+
+
+<p align="left"> <a href="https://twitter.com/0x12md10" target="blank"><img src="https://img.shields.io/twitter/follow/0x12md10?logo=twitter&style=for-the-badge" alt="0x12md10" /></a> </p>
+
+- 🔭 I’m currently working on my [Personal Blog](https://github.com/0x12md10/personal-blog)
+
+
+- 👨‍💻 All of my projects are available at [portfolio.abisheka.in](portfolio.abisheka.in)
+
+
+- 📫 How to reach me **abish18.dev@gmail.com**
+
+<h6 align="left">Connect with me:</h6>
+<p align="left" style="display:flex; gap:20px;">
+<a href="https://twitter.com/0x12md10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="0x12md10" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/padfoot-dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="padfoot-dev" height="30" width="40" /></a>
+<a href="https://discord.gg/0x12md10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="0x12md10" height="30" width="40" /></a>
+</p>
 <h3 align="left">Languages and Technologies :</h3>
 
 ###
