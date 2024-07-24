@@ -27,7 +27,7 @@
 
 ###
 
-<h6 align="left">Connect with me:</h6>
+<h3 align="left">Connect with me:</h3>
 <p align="left" style="display:flex; gap:20px;">
 <a href="https://twitter.com/0x12md10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="0x12md10" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/padfoot-dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="padfoot-dev" height="30" width="40" /></a>
@@ -92,7 +92,7 @@
 
 <br clear="both">
 
-<div align="center">
+<div align="center" style="display:flex; flex-wrap:wrap; flex-basis: 1 1 auto;">
   <img src="https://github-readme-stats.vercel.app/api?username=0x12md10&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=gotham&locale=en&hide_border=false&order=1" height="150" alt="stats graph" /> <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=0x12md10&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=gotham&hide_border=false&order=2" height="150" alt="languages graph" /> <br>
   <img src="https://streak-stats.demolab.com?user=0x12md10&locale=en&mode=daily&theme=gotham&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
