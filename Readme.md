@@ -25,7 +25,7 @@
 
 - 📫 How to reach me **abish18.dev@gmail.com**
 
-- ###
+###
 
 <h6 align="left">Connect with me:</h6>
 <p align="left" style="display:flex; gap:20px;">
