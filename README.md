@@ -17,10 +17,8 @@
 
 <h3 align="left">What's happening in my void ?</h3>
 
-- 🔭 I’m currently working on my [Personal Blog](https://github.com/0x12md10/personal-blog)
 
-
-- 👨‍💻 All of my projects are available at [portfolio.abisheka.in](portfolio.abisheka.in)
+- 👨‍💻 All of my projects are available at [portfolio.abisheka.in](https://abisheka.in)
 
 
 - 📫 How to reach me **abish18.dev@gmail.com**
